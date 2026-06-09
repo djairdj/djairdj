@@ -27,8 +27,8 @@ I’m a Data Engineer with 3+ years of experience building data pipelines, autom
 
 ## 📫 Contact
 
-* LinkedIn: linkedin.com/in/djairdj
-* GitHub: github.com/djairdj
+* [LinkedIn](linkedin.com/in/djairdj)
+* [GitHub](github.com/djairdj)
 
 
 <!--
